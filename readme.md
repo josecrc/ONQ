@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josecrc/ONQ/blob/main/ONQ_Cirq_Demo.ipynb)
+
 ⚛️ ONQ: Quantum-Inspired Cognitive Steering Engine (28-Qubit QGCA)
 
 ONQ (Quantum-Inspired Cognitive Steering Engine) es un framework middleware de gobernanza híbrida cuántico-clásica diseñado para controlar la deriva cognitiva, mitigar la autocomplacencia (sycophancy) y regular emocionalmente agentes autónomos basados en Modelos de Lenguaje de Gran Escala (LLMs).
